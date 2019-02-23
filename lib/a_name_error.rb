@@ -1,3 +1,3 @@
-"hello world"
+myword = "hello world"
 
-hello_world
+puts myword
